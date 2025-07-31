@@ -1,0 +1,67 @@
+.deskop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.deskop1-deskop1 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.deskop1-input1 {
+  gap: 8px;
+  top: 177px;
+  left: 519px;
+  color: rgba(0, 0, 0, 1);
+  width: 380px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  font-size: 128px;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-shrink: 0;
+  font-family: Judson;
+  font-weight: 400;
+  border-radius: 4px;
+  background-color: var(--dl-color-m3-white);
+}
+ 
+.deskop1-input2 {
+  gap: 8px;
+  top: 612px;
+  left: 505px;
+  color: rgba(0, 0, 0, 1);
+  width: 388px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  font-size: 24px;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-shrink: 0;
+  font-family: Judson;
+  font-weight: 400;
+  border-radius: 4px;
+  background-color: var(--dl-color-m3-white);
+}
+ 
+.deskop1-image7 {
+  top: 363px;
+  left: 560px;
+  width: 298px;
+  height: 298px;
+  position: absolute;
+}

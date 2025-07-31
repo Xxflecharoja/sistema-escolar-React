@@ -1,0 +1,96 @@
+.menu-exclusivojefedepartamento-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.menu-exclusivojefedepartamento-menu-exclusivojefedepartamento {
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 4px 0;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(226, 232, 240, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 1px;
+  flex-direction: column;
+  background-color: var(--dl-color-light_surfaces-content);
+}
+ 
+.menu-exclusivojefedepartamento-menuitem-link1 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-light_surfaces-content);
+}
+ 
+.menu-exclusivojefedepartamento-text1 {
+  color: var(--dl-color-light_text-defaulttext);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.menu-exclusivojefedepartamento-menuitem-link2 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-light_surfaces-content);
+}
+ 
+.menu-exclusivojefedepartamento-text2 {
+  color: var(--dl-color-light_text-defaulttext);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.menu-exclusivojefedepartamento-menuitem-link3 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-light_surfaces-content);
+}
+ 
+.menu-exclusivojefedepartamento-text3 {
+  color: var(--dl-color-light_text-defaulttext);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.menu-exclusivojefedepartamento-menuitem-link4 {
+  gap: 8px;
+  display: flex;
+  padding: 12px 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-light_surfaces-content);
+}
+ 
+.menu-exclusivojefedepartamento-text4 {
+  color: var(--dl-color-light_text-defaulttext);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}

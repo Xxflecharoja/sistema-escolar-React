@@ -1,0 +1,25 @@
+.frame3d-avatars26-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.frame3d-avatars26-frame3d-avatars26 {
+  width: 100%;
+  height: 94px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.frame3d-avatars26-avatars3davatar26 {
+  top: 0px;
+  left: 0px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+}

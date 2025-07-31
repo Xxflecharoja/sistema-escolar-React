@@ -1,0 +1,237 @@
+.desktop14-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.desktop14-desktop14 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(237, 237, 237, 1);
+}
+ 
+.desktop14-rectangle1 {
+  top: 568px;
+  left: 523px;
+  width: 400px;
+  height: 379px;
+  position: absolute;
+  border-radius: 50px;
+}
+ 
+.desktop14-frame1481 {
+  gap: 8px;
+  top: 746px;
+  left: 615px;
+  width: 200px;
+  height: 45px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-light_forms-background);
+}
+ 
+.desktop14-text1 {
+  color: var(--dl-color-grays-black);
+  height: auto;
+  flex-grow: 1;
+  text-align: center;
+  line-height: 24px;
+}
+ 
+.desktop14-button1 {
+  gap: 8px;
+  top: 584px;
+  left: 523px;
+  width: 430px;
+  height: 99px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+}
+ 
+.desktop14-text2 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop14-button2 {
+  gap: 8px;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 152px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(6, 50, 194, 1);
+}
+ 
+.desktop14-text3 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop14-input {
+  gap: 8px;
+  top: 682px;
+  left: 615.2855224609375px;
+  width: 202px;
+  height: 56.27763748168945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  flex-direction: column;
+}
+ 
+.desktop14-frame1482 {
+  gap: 8px;
+  display: flex;
+  padding: 12px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(203, 213, 225, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  background-color: var(--dl-color-light_forms-background);
+}
+ 
+.desktop14-user1 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.desktop14-user2 {
+  top: 4.749998569488525px;
+  left: 4.25px;
+  width: 15.5px;
+  height: 14.500001907348633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.desktop14-vector1 {
+  top: 0px;
+  left: 3.999998092651367px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.desktop14-vector2 {
+  top: 9.000001907348633px;
+  left: 0px;
+  width: 15px;
+  height: 5px;
+  position: absolute;
+}
+ 
+.desktop14-text4 {
+  color: var(--dl-color-grays-black);
+  height: auto;
+  flex-grow: 1;
+  text-align: center;
+  line-height: 24px;
+}
+ 
+.desktop14-button3 {
+  gap: 8px;
+  top: 798px;
+  left: 665px;
+  width: 109px;
+  height: 52px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(12, 199, 232, 1);
+}
+ 
+.desktop14-text5 {
+  color: var(--dl-color-light_text-inversetext);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jua;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop14-image5 {
+  top: 9px;
+  left: 26px;
+  width: 134px;
+  height: 134px;
+  position: absolute;
+}
+ 
+.desktop14-logosinfondo1 {
+  top: 16px;
+  left: 26px;
+  width: 91px;
+  height: 127px;
+  position: absolute;
+}
+ 
+.desktop14-image7 {
+  top: 188px;
+  left: 551px;
+  width: 343px;
+  height: 343px;
+  position: absolute;
+}

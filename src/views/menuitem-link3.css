@@ -1,0 +1,28 @@
+.menuitem-link3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.menuitem-link3-menuitem-link {
+  gap: 8px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 12px 16px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-light_surfaces-content);
+}
+ 
+.menuitem-link3-text {
+  color: var(--dl-color-light_text-defaulttext);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}

@@ -1,0 +1,464 @@
+.desktop12-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.desktop12-desktop12 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(247, 245, 245, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.desktop12-rectangle8 {
+  top: 310px;
+  left: 28px;
+  width: 303px;
+  height: 613px;
+  position: absolute;
+  border-color: rgba(15, 25, 60, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 77px;
+}
+ 
+.desktop12-button1 {
+  gap: 8px;
+  top: 0px;
+  left: 0px;
+  width: 1399px;
+  height: 134px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(6, 50, 194, 1);
+}
+ 
+.desktop12-text10 {
+  top: 67px;
+  left: 257px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-image5 {
+  top: 8.881784197001252e-16px;
+  left: 26px;
+  width: 134px;
+  height: 134px;
+  position: absolute;
+}
+ 
+.desktop12-menu011 {
+  top: 134px;
+  left: 26px;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+}
+ 
+.desktop12-button2 {
+  gap: 8px;
+  top: 0px;
+  left: 0px;
+  width: 1399px;
+  height: 134px;
+  display: flex;
+  padding: 12px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: rgba(6, 50, 194, 1);
+}
+ 
+.desktop12-text11 {
+  top: 67px;
+  left: 257px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-menu012 {
+  top: 134px;
+  left: 26px;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+}
+ 
+.desktop12-logosinfondo1 {
+  top: 0px;
+  left: 34px;
+  width: 90px;
+  height: 127px;
+  position: absolute;
+}
+ 
+.desktop12-genericavatar {
+  top: 146px;
+  left: 1301px;
+  width: 98px;
+  height: 98px;
+  position: absolute;
+}
+ 
+.desktop12-rectangle3 {
+  top: 146px;
+  left: 343px;
+  width: 675px;
+  height: 76px;
+  position: absolute;
+}
+ 
+.desktop12-text12 {
+  top: 177px;
+  left: 359px;
+  color: rgba(0, 0, 0, 1);
+  width: 877px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-rectangle4 {
+  top: 348px;
+  left: 72px;
+  width: 221px;
+  height: 69px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.desktop12-text13 {
+  top: 369px;
+  left: 103px;
+  color: rgba(0, 0, 0, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-rectangle {
+  top: 467px;
+  left: 72px;
+  width: 221px;
+  height: 67px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.desktop12-text14 {
+  top: 489px;
+  left: 101px;
+  color: rgba(0, 0, 0, 1);
+  width: 156px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-rectangle5 {
+  top: 598px;
+  left: 72px;
+  width: 221px;
+  height: 59px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.desktop12-text15 {
+  top: 622px;
+  left: 97px;
+  color: rgba(0, 0, 0, 1);
+  width: 165px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-rectangle6 {
+  top: 709.013427734375px;
+  left: 71.46864318847656px;
+  width: 221px;
+  height: 60px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.desktop12-text16 {
+  top: 734px;
+  left: 118px;
+  color: rgba(0, 0, 0, 1);
+  width: 139px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-rectangle7 {
+  top: 821px;
+  left: 71px;
+  width: 239px;
+  height: 64px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.desktop12-text17 {
+  top: 839px;
+  left: 93px;
+  color: rgba(0, 0, 0, 1);
+  width: 192px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-text18 {
+  top: 184px;
+  left: 1093px;
+  color: rgba(0, 0, 0, 1);
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-group1 {
+  top: 276px;
+  left: 359px;
+  width: 707px;
+  height: 447px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+ 
+.desktop12-frame153 {
+  top: 276px;
+  left: 359px;
+  width: 707px;
+  height: 72px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(128, 61, 61, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(6, 50, 194, 1);
+}
+ 
+.desktop12-text19 {
+  top: 24px;
+  left: 42px;
+  color: rgba(23, 22, 22, 1);
+  width: 312px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-text20 {
+  top: 443px;
+  left: 370px;
+  color: rgba(0, 0, 0, 1);
+  width: 686px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-rectangle10 {
+  top: 648px;
+  left: 401px;
+  width: 172px;
+  height: 41px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.desktop12-rectangle11 {
+  top: 645px;
+  left: 614px;
+  width: 172px;
+  height: 41px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.desktop12-rectangle12 {
+  top: 648px;
+  left: 843px;
+  width: 172px;
+  height: 41px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.desktop12-text34 {
+  top: 669px;
+  left: 427px;
+  color: rgba(20, 20, 20, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-text35 {
+  top: 666px;
+  left: 635px;
+  color: rgba(20, 20, 20, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.desktop12-text36 {
+  top: 666px;
+  left: 864px;
+  color: rgba(20, 20, 20, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Habibi;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}

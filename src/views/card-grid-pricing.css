@@ -1,0 +1,449 @@
+.card-grid-pricing-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.card-grid-pricing-card-grid-pricing {
+  gap: 48px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 64px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.card-grid-pricing-navigation-pill-list {
+  gap: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+ 
+.card-grid-pricing-navigation-pill1 {
+  gap: 8px;
+  display: flex;
+  opacity: 0.00;
+  padding: 8px;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(245, 245, 245, 1);
+}
+ 
+.card-grid-pricing-text10 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 100%;
+}
+ 
+.card-grid-pricing-navigation-pill2 {
+  gap: 8px;
+  display: flex;
+  opacity: 0.00;
+  padding: 8px;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: center;
+}
+ 
+.card-grid-pricing-text11 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 100%;
+}
+ 
+.card-grid-pricing-navigation-pill3 {
+  gap: 8px;
+  display: flex;
+  opacity: 0.00;
+  padding: 8px;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: center;
+}
+ 
+.card-grid-pricing-text12 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: left;
+  line-height: 100%;
+}
+ 
+.card-grid-pricing-card-grid {
+  gap: 64px;
+  display: flex;
+  flex-wrap: wrap;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-pricing-card1 {
+  gap: 24px;
+  width: 314.6666564941406px;
+  display: flex;
+  padding: 32px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.card-grid-pricing-top1 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+ 
+.card-grid-pricing-text-heading1 {
+  width: 149px;
+  height: 29px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text13 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: center;
+  line-height: 120.00000476837158%;
+}
+ 
+.card-grid-pricing-text-list1 {
+  gap: 12px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.card-grid-pricing-text-list-item10 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  opacity: 0.00;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text14 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-text-list-item11 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  opacity: 0.00;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text15 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-text-list-item12 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  opacity: 0.00;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text16 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-text-list-item13 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  opacity: 0.00;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text17 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-pricing-card2 {
+  gap: 24px;
+  width: 314.66668701171875px;
+  display: flex;
+  padding: 32px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(44, 44, 44, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.card-grid-pricing-top2 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+ 
+.card-grid-pricing-text-heading2 {
+  width: 149px;
+  height: 29px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text18 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: center;
+  line-height: 120.00000476837158%;
+}
+ 
+.card-grid-pricing-text-list2 {
+  gap: 12px;
+  display: flex;
+  opacity: 0.10;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.card-grid-pricing-text-list-item14 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text19 {
+  color: rgba(245, 245, 245, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-text-list-item15 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text20 {
+  color: rgba(245, 245, 245, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-text-list-item16 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text21 {
+  color: rgba(245, 245, 245, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-text-list-item17 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text22 {
+  color: rgba(245, 245, 245, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-pricing-card3 {
+  gap: 24px;
+  width: 314.66668701171875px;
+  display: flex;
+  padding: 32px;
+  overflow: hidden;
+  flex-grow: 1;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(217, 217, 217, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.card-grid-pricing-top3 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+ 
+.card-grid-pricing-text-heading3 {
+  width: 149px;
+  height: 29px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+ 
+.card-grid-pricing-text23 {
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  text-align: center;
+  line-height: 120.00000476837158%;
+}
+ 
+.card-grid-pricing-text-list3 {
+  gap: 12px;
+  display: flex;
+  opacity: 0.00;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.card-grid-pricing-text-list-item18 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text24 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-text-list-item19 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text25 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-text-list-item20 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text26 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
+ 
+.card-grid-pricing-text-list-item21 {
+  width: 89px;
+  height: 22px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.card-grid-pricing-text27 {
+  color: rgba(117, 117, 117, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 139.9999976158142%;
+}
